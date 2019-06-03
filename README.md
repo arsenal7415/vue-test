@@ -1,5 +1,5 @@
 # vue-test
-
+测试用，vue+axios+vuex+vue-router
 > A Vue.js project
 
 ## Build Setup
